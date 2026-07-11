@@ -8,7 +8,7 @@
 
 2. Add a **<button>** element with the text Hello.
 
-3. Insert a **<p>** tag containing a sample paragraph.
+3. Insert a **<p>**tag containing a sample paragraph.
 
 4. Include an **<a>** tag linking to YouTube, with target="_blank" to open in a new tab.
 
@@ -16,4 +16,4 @@
 
 6. **End** — basic HTML practice project complete.
 
-<img width="1918" height="1017" alt="Screenshot 2026-07-11 201243" src="https://github.com/user-attachments/assets/8819a7ad-ef79-422b-9362-8da4856392da" />
+<img width="500" alt="Screenshot 2026-07-11 201243" src="https://github.com/user-attachments/assets/8819a7ad-ef79-422b-9362-8da4856392da" />
