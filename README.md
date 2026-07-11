@@ -1,9 +1,9 @@
 # HTML-and-CSS-Learning
 
 # PROJECT – Website (HTML)
----
+___
 # Algorithm
----
+___
 1. **Start** by creating an HTML file named website.html.
 
 2. Add a **<button>** element with the text Hello.
