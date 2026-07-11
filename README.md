@@ -1,14 +1,14 @@
 # HTML-and-CSS-Learning
 
 # PROJECT – Website (HTML)
-___
+.
 # Algorithm
-___
+.
 1. **Start** by creating an HTML file named website.html.
 
 2. Add a **<button>** element with the text Hello.
 
-3. Insert a <p> tag containing a sample paragraph.
+3. Insert a **<p>** tag containing a sample paragraph.
 
 4. Include an **<a>** tag linking to YouTube, with target="_blank" to open in a new tab.
 
