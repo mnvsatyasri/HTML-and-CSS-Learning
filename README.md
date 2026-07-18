@@ -39,7 +39,8 @@
 - HTML for structure
 - CSS for styling
 
-<img width="800" alt="Screenshot 2026-07-16 212224" src="https://github.com/user-attachments/assets/44542a18-efb3-43d6-ab65-92c3e39e605b" />
+<img width="800" alt="Screenshot 2026-07-18 203052" src="https://github.com/user-attachments/assets/9c727253-fbbf-4636-8222-3084eb989074" />
+
 
 ### PROJECT – Controls2 (HTML + CSS)
 
@@ -65,7 +66,7 @@
 - HTML for structure  
 - CSS for styling
 
-<img width="1620" height="675" alt="Screenshot 2026-07-18 201818" src="https://github.com/user-attachments/assets/738728b0-e3c0-4fc3-aecb-5abad6df7236" />
+<img width="800" alt="Screenshot 2026-07-18 201818" src="https://github.com/user-attachments/assets/738728b0-e3c0-4fc3-aecb-5abad6df7236" />
 
 
 
