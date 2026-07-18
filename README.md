@@ -41,4 +41,32 @@
 
 <img width="800" alt="Screenshot 2026-07-16 212224" src="https://github.com/user-attachments/assets/44542a18-efb3-43d6-ab65-92c3e39e605b" />
 
+### PROJECT – Controls2 (HTML + CSS)
+
+#### Algorithm
+1. Create an HTML file named `buttons2.html`.
+2. Link a CSS file named `buttons2.css` inside the `<head>` section.
+3. Add three `<button>` elements with classes:
+   - `subscribe-button`
+   - `join-button`
+   - `tweet-button`
+4. In `buttons2.css`, style each button with:
+   - Background color
+   - Text color
+   - Border and border-radius
+   - Height and width
+   - Cursor type
+   - Margins
+   - Hover and active effects
+5. Save both files and open `buttons2.html` in a browser.
+6. End — interactive styled buttons displayed successfully.
+
+#### Technologies Used
+- HTML for structure  
+- CSS for styling
+
+<img width="1620" height="675" alt="Screenshot 2026-07-18 201818" src="https://github.com/user-attachments/assets/738728b0-e3c0-4fc3-aecb-5abad6df7236" />
+
+
+
 
