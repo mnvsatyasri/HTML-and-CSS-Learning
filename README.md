@@ -66,7 +66,8 @@
 - HTML for structure  
 - CSS for styling
 
-<img width="800" alt="Screenshot 2026-07-18 201818" src="https://github.com/user-attachments/assets/738728b0-e3c0-4fc3-aecb-5abad6df7236" />
+<img width="800" alt="Screenshot 2026-07-18 203338" src="https://github.com/user-attachments/assets/eeb5995d-1a9d-4468-984a-d35927f530c2" />
+
 
 
 
