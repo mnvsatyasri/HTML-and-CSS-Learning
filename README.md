@@ -39,7 +39,7 @@
 - HTML for structure
 - CSS for styling
 
-<img width="800" alt="Screenshot 2026-07-18 203052" src="https://github.com/user-attachments/assets/9c727253-fbbf-4636-8222-3084eb989074" />
+<img width="500" alt="Screenshot 2026-07-18 203052" src="https://github.com/user-attachments/assets/9c727253-fbbf-4636-8222-3084eb989074" />
 
 
 ### PROJECT – Controls2 (HTML + CSS)
