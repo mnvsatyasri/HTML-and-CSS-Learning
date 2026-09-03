@@ -129,6 +129,9 @@
 * HTML for structure
 * CSS for styling
 
+  <img width="800" alt="Screenshot 2026-09-03 231359" src="https://github.com/user-attachments/assets/b3cfd750-047d-40d4-8c81-876d55632d55" />
+
+
 
 
 
