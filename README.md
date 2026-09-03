@@ -99,5 +99,36 @@
   <img width="800" alt="Screenshot 2026-09-03 213602" src="https://github.com/user-attachments/assets/9edb59c0-ea2c-4925-b6c6-de656c8d0887" />
 
 
+### PROJECT – Text Styles (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named `text.html`.
+2. Link a CSS file named `text.css` inside the `<head>` section (located in a `Styles/` directory).
+3. Add paragraph `<p>` and `<span>` elements with classes:
+   * `video-title`
+   * `video-stats`
+   * `video-author`
+   * `video-description`
+   * `apple-text`
+   * `shop-link`
+   * `span-eg`
+4. In `text.css`, style each text element with:
+   * Font family (Arial)
+   * Font size and weight
+   * Text color and background color
+   * Line height and text alignment
+   * Width constraints
+   * Margins and padding
+   * Hover effects and cursor type
+5. Save both files and open `text.html` in a browser.
+6. End — styled text components and layouts displayed successfully.
+
+#### Technologies Used
+
+* HTML for structure
+* CSS for styling
+
+
 
 
