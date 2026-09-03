@@ -69,6 +69,35 @@
 <img width="800" alt="Screenshot 2026-07-18 203338" src="https://github.com/user-attachments/assets/eeb5995d-1a9d-4468-984a-d35927f530c2" />
 
 
+### PROJECT – Controls3 (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named `buttons3.html`.
+2. Link a CSS file named `buttons3.css` inside the `<head>` section.
+3. Add three `<button>` elements with classes:
+   - `subscribe-button`
+   - `join-button`
+   - `tweet-button`
+4. In `buttons3.css`, style each button with:
+   - Background color
+   - Text color
+   - Border and border-radius
+   - Height and width
+   - Padding (Inner spacing)
+   - Cursor type
+   - Margins
+   - Hover and active effects
+5. Save both files and open `buttons3.html` in a browser.
+6. End — interactive styled buttons displayed successfully.
+
+#### Technologies Used
+
+- HTML for structure
+- CSS for styling
+
+  <img width="800" alt="Screenshot 2026-09-03 213602" src="https://github.com/user-attachments/assets/9edb59c0-ea2c-4925-b6c6-de656c8d0887" />
+
 
 
 
