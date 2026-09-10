@@ -1,0 +1,23 @@
+p{
+        font-family: Arial;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+    .free{
+        font-weight: bold;
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .h{
+            color: gray;
+            font-weight: normal;
+    }
+    .web{
+        margin-bottom: 15px;
+        width: 560px;
+    }
+    .it{
+        color: rgb(6, 173, 228);
+        cursor: pointer;
+    }
