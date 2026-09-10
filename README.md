@@ -132,6 +132,37 @@
   <img width="800" alt="Screenshot 2026-09-03 231359" src="https://github.com/user-attachments/assets/b3cfd750-047d-40d4-8c81-876d55632d55" />
 
 
+### PROJECT – Tweet Style Layout (HTML + CSS)
+
+#### Algorithm
+1. Create an HTML file named `text.html`.
+2. Link a CSS file named `5g.css` inside the `<head>` section (located in a `Styles/` directory).
+3. Add paragraph `<p>` and `<span>` elements with classes:
+   - `free` → username  
+   - `h` → handle + timestamp  
+   - `web` → main tweet text  
+   - `skills` → extra info line  
+   - `it` → highlighted clickable handle
+4. In `5g.css`, style each text element with:
+   - Font family (Arial)  
+   - Font size and weight  
+   - Text color (gray for handles, blue for links)  
+   - Width constraints for readability  
+   - Margins and spacing  
+   - Cursor pointer effect on clickable text
+5. Save both files and open `text.html` in a browser.
+6. End — tweet‑style text layout displayed successfully.
+
+#### Technologies Used
+- HTML for structure  
+- CSS for styling
+
+  <img width="800" alt="image" src="https://github.com/user-attachments/assets/669740b3-2479-4f69-b7c8-7e033d3f31cf" />
+
+
+
+
+
 
 
 
