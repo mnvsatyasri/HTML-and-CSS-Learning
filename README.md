@@ -159,29 +159,25 @@
 
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/669740b3-2479-4f69-b7c8-7e033d3f31cf" />
 
-### PROJECT – Text Styles (HTML + CSS)
+### PROJECT – LinkedIn SignUp Form (HTML + CSS)
 
-### Algorithm
-1. Create an HTML file named `text.html`.
-2. Link a CSS file named `text.css` inside the `<head>` section (located in a `Styles/` directory).
-3. Add paragraph `<p>` and `<span>` elements with classes:
-    * `video-title`
-    * `video-stats`
-    * `video-author`
-    * `video-description`
-    * `apple-text`
-    * `shop-link`
-    * `span-eg`
-4. In `text.css`, style each text element with:
+#### Algorithm
+1. Create an HTML file named `7f.html`.
+2. Link a CSS file named `7f.css` inside the `<head>` section (located in a `Styles/` directory).
+3. Add form elements with classes:
+    * `Email`
+    * `email-box`
+    * `matter`
+    * `button`
+4. In `7f.css`, style each element with:
     * Font family (Arial)
     * Font size and weight
     * Text color and background color
-    * Line height and text alignment
+    * Border styles and border radius
     * Width constraints
     * Margins and padding
-    * Hover effects and cursor type
-5. Save both files and open `text.html` in a browser.
-6. End — tweet‑style text layout displayed successfully.
+5. Save both files and open `7f.html` in a browser.
+6.  End — LinkedIn SignUp Page layout displayed successfully.
 
 #### Technologies Used
 - HTML for structure  
