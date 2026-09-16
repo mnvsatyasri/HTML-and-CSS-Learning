@@ -186,6 +186,34 @@
 <img width="800" alt="Screenshot 2026-09-12 200253" src="https://github.com/user-attachments/assets/befd9efc-434e-425a-840f-11a15827805e" />
 
 
+### PROJECT - Ride Now (HTML + CSS)
+
+#### Algorithm
+1. Create an HTML file named `8e.html`.
+2. Link a CSS file named `8e.css` inside the `<head>` section.
+3. Add the following elements inside `8e.html`:
+   - A heading with the text: `Request a ride now`
+   - Two `<input>` fields:
+     - `pickup` → Enter pickup location
+     - `destination` → Enter destination
+   - Two `<button>` elements:
+     - `Request` → Request now
+     - `Schedule` → Schedule for later
+4. In `8e.css`, style each element with properties like:
+   - Font family and font size
+   - Background color
+   - Text color
+   - Border and border-radius
+   - Padding and margins
+   - Cursor type
+   - **Use `display: block` for input fields to align them vertically**
+5. Save both files and open `8e.html` in a browser.
+6. End — styled ride request form displayed successfully.
+
+#### Technologies Used
+- HTML for structure  
+- CSS for styling
+
 
 
 
