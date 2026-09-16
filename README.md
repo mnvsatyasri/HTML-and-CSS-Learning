@@ -185,6 +185,35 @@
 
 <img width="800" alt="Screenshot 2026-09-12 200253" src="https://github.com/user-attachments/assets/befd9efc-434e-425a-840f-11a15827805e" />
 
+### PROJECT - Ride now Web Page (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named ride.html .
+2. Link a CSS file named ride.css inside the <head> section.
+3. Add the structural elements for the form:
+   o Heading element for "Request a ride now"
+   o Input fields for pickup location and destination
+   o Two <button> elements with classes:
+     - request-now-button
+     - schedule-later-button
+4. In ride.css , style the elements with properties like:
+   o Display: block for vertical spacing
+   o Background color
+   o Text color
+   o Border and border-radius
+   o Height and width
+   o Padding and margins
+   o Font family and size
+5. Save both files and open ride.html in a browser.
+6. End — styled ride request form displayed successfully.
+
+#### Technologies Used
+
+• HTML for structure
+• CSS for styling
+
+
 
 
 
