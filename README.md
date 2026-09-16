@@ -214,6 +214,7 @@
 - HTML for structure  
 - CSS for styling
 
+<img width="800" alt="Screenshot 2026-09-16 123810" src="https://github.com/user-attachments/assets/481862d3-5284-4564-803e-453ef4a79d2a" />
 
 
 
