@@ -159,7 +159,7 @@
 
   <img width="800" alt="image" src="https://github.com/user-attachments/assets/669740b3-2479-4f69-b7c8-7e033d3f31cf" />
 
-### PROJECT – LinkedIn SignUp Form (HTML + CSS)
+### PROJECT – LinkedIn SignUp Page (HTML + CSS)
 
 #### Algorithm
 1. Create an HTML file named `7f.html`.
