@@ -216,7 +216,7 @@
 
 <img width="800" alt="Screenshot 2026-09-16 123810" src="https://github.com/user-attachments/assets/481862d3-5284-4564-803e-453ef4a79d2a" />
 
-### PROJECT - Friend Suggestion Cards (HTML + CSS)
+### PROJECT - Add Friend Cards(Facebook) (HTML + CSS)
 
 #### Algorithm
 1. Create an HTML file named `9g.html`.
@@ -241,6 +241,7 @@
 - HTML for structure
 - CSS for styling
 
+<img width="800" alt="Screenshot 2026-09-19 195552" src="https://github.com/user-attachments/assets/72a97fb2-b5e1-459c-8624-7dffb87396b4" />
 
   
 
