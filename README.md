@@ -240,7 +240,7 @@
 #### Technologies Used
 - HTML for structure
 - CSS for styling
-<img width="800" alt="Screenshot 2026-09-19 193337" src="https://github.com/user-attachments/assets/150b437d-7216-45ce-bac3-32c434de3edc" />
+
 
   
 
