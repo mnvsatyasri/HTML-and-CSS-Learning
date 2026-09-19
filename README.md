@@ -216,6 +216,32 @@
 
 <img width="800" alt="Screenshot 2026-09-16 123810" src="https://github.com/user-attachments/assets/481862d3-5284-4564-803e-453ef4a79d2a" />
 
+### PROJECT - Friend Suggestion Cards (HTML + CSS)
+
+#### Algorithm
+1. Create an HTML file named `9g.html`.
+2. Link a CSS file named `9g.css` inside the `<head>` section.
+3. Add the following elements inside `9g.html`:
+   - Multiple `<div>` blocks → each represents a friend card
+   - `<img>` → Profile picture
+   - `<p>` → Name of the person (e.g., Satya Sri, Srihaas, Asri)
+   - `<p>` → Mutual friends info
+   - `<button>` → Add Friend button
+4. In `9g.css`, style each element with properties like:
+   - Font family and font size
+   - Box shadow and border radius
+   - Background color and text color
+   - Padding and margins
+   - Cursor type
+   - **Use `display: inline-block` for cards to align them side by side**
+5. Save both files and open `9g.html` in a browser.
+6. End — styled friend suggestion cards displayed successfully.
+
+#### Technologies Used
+- 
+- 
+
+
 
 
 
