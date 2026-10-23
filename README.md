@@ -258,7 +258,7 @@
 7. Review the layout hierarchy and component grouping.
 8. Save the completed drawing.
 9. End — layout analysis completed successfully.
-10. 
+   
 ## Concepts Practiced
 - Vertical Layouts
 - Horizontal Layouts
