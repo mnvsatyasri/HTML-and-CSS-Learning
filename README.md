@@ -243,7 +243,36 @@
 
 <img width="800" alt="Screenshot 2026-09-19 195552" src="https://github.com/user-attachments/assets/72a97fb2-b5e1-459c-8624-7dffb87396b4" />
 
-  
+### PROJECT - Layout Analysis (Google Drawings)
+
+#### Algorithm
+1. Open Google Drawings.
+2. Insert the Friend Card design reference image.
+3. Identify the main sections of the design.
+4. Draw rectangles around each section to visualize the layout structure.
+5. Use colors to distinguish:
+   - Vertical layouts
+   - Horizontal layouts
+   - Nested layouts
+6. Analyze how the cards are arranged in rows and columns.
+7. Review the layout hierarchy and component grouping.
+8. Save the completed drawing.
+9. End — layout analysis completed successfully.
+10. 
+## Concepts Practiced
+- Vertical Layouts
+- Horizontal Layouts
+- Nested Layouts
+- UI Structure Analysis
+- Layout Planning
+
+## Technologies Used
+- Google Drawings
+
+## Learning Outcome
+This exercise helped me understand how user interfaces are structured using horizontal and vertical layouts before implementing them with HTML and CSS. It improved my ability to analyze designs and identify layout patterns.
+
+<img width="800" src="https://github.com/user-attachments/assets/8fa6e303-de30-4b44-b14e-74feed7b91af" />
 
 
 
