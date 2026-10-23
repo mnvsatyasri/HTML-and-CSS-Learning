@@ -259,17 +259,17 @@
 8. Save the completed drawing.
 9. End — layout analysis completed successfully.
    
-## Concepts Practiced
+#### Concepts Practiced
 - Vertical Layouts
 - Horizontal Layouts
 - Nested Layouts
 - UI Structure Analysis
 - Layout Planning
 
-## Technologies Used
+#### Technologies Used
 - Google Drawings
 
-## Learning Outcome
+#### Learning Outcome
 This exercise helped me understand how user interfaces are structured using horizontal and vertical layouts before implementing them with HTML and CSS. It improved my ability to analyze designs and identify layout patterns.
 
 <img width="800" src="https://github.com/user-attachments/assets/8fa6e303-de30-4b44-b14e-74feed7b91af" />
