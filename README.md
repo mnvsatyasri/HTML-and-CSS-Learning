@@ -274,6 +274,40 @@ This exercise helped me understand how user interfaces are structured using hori
 
 <img width="800" src="https://github.com/user-attachments/assets/8fa6e303-de30-4b44-b14e-74feed7b91af" />
 
+## PROJECT - CSS Grid Layout (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named `grid-layout.html`.
+2. Add a grid container using a `<div>` element.
+3. Set the container display property to:
+- `display: grid`
+4. Create four equal-width columns using:
+- `grid-template-columns: 1fr 1fr 1fr 1fr`
+5. Add spacing between grid items:
+- `column-gap: 20px`
+- `row-gap: 10px`
+6. Add eight grid items inside the container:
+- `col1`
+- `col2`
+- `col3`
+- `col4`
+- `col1`
+- `col2`
+- `col3`
+- `col4`
+7. Apply a background color to each grid item:
+- `background-color: lightpink`
+8. Save the file and open `grid-layout.html` in a browser.
+9. End – the CSS Grid layout is displayed successfully.
+
+#### Technologies Used
+- HTML for structure
+- CSS for styling
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6ccb3428-8ad3-4845-853e-40c2a7135326" />
+
+
 
 
 
