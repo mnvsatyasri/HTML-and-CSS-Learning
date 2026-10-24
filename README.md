@@ -288,14 +288,8 @@ This exercise helped me understand how user interfaces are structured using hori
 - `column-gap: 20px`
 - `row-gap: 10px`
 6. Add eight grid items inside the container:
-- `col1`
-- `col2`
-- `col3`
-- `col4`
-- `col1`
-- `col2`
-- `col3`
-- `col4`
+- `col1` - `col2` - `col3` - `col4`
+- `col1` - `col2` - `col3` - `col4`
 7. Apply a background color to each grid item:
 - `background-color: lightpink`
 8. Save the file and open `grid-layout.html` in a browser.
