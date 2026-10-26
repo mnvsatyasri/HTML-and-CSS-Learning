@@ -278,7 +278,7 @@ This exercise helped me understand how user interfaces are structured using hori
 
 #### Algorithm
 
-1. Create an HTML file named `grid-layout.html`.
+1. Create an HTML file named `11c.html`.
 2. Add a grid container using a `<div>` element.
 3. Set the container display property to:
 - `display: grid`
@@ -292,7 +292,7 @@ This exercise helped me understand how user interfaces are structured using hori
 - `col1` - `col2` - `col3` - `col4`
 7. Apply a background color to each grid item:
 - `background-color: lightpink`
-8. Save the file and open `grid-layout.html` in a browser.
+8. Save the file and open `11c.html` in a browser.
 9. End – the CSS Grid layout is displayed successfully.
 
 #### Technologies Used
