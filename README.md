@@ -301,7 +301,55 @@ This exercise helped me understand how user interfaces are structured using hori
 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/6ccb3428-8ad3-4845-853e-40c2a7135326" />
 
+## PROJECT - Notifications Panel using Flexbox (HTML + CSS)
 
+#### Algorithm
+
+1. Create an HTML file named `12e.html`.
+2. Link a CSS file named `12e.css` inside the `<head>` section.
+3. Add the following elements inside `12e.html`:
+   - A main container using a `<div>` element.
+   - Three Flexbox rows:
+     - Home → Notification count `14`
+     - Notifications → Notification count `3`
+     - Messages → Notification count `5`
+   - Use separate `<div>` elements for labels and notification badges.
+4. In `12e.css`, style each element with properties like:
+   - Font family
+   - Border and border-radius
+   - Width
+   - Padding
+   - Background color
+   - Text color
+   - Font size and font weight
+5. Use `display: flex` for each row to:
+   - Align items horizontally
+   - Place text and notification badges at opposite ends
+   - Center-align items vertically
+6. Style the notification badges:
+   - Blue background color
+   - White text color
+   - Rounded corners using `border-radius`
+   - Bold font styling
+   - Proper padding for spacing
+7. Add a border and rounded corners to the main container for a clean card-like appearance.
+8. Save both files and open `12e.html` in a browser.
+9. End — styled notifications panel displayed successfully.
+    
+#### Technologies Used
+- HTML for structure
+- CSS for styling
+
+#### Concepts Practiced
+- Flexbox Layout
+- Horizontal Alignment
+- Vertical Centering
+- Notification Badges
+- Borders and Border Radius
+- CSS Spacing (Padding)
+- Font Styling
+
+<img width="391" height="146" alt="image" src="https://github.com/user-attachments/assets/763cb298-9e56-46c7-a43f-bb6c97efab20" />
 
 
 
