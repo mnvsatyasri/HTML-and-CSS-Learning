@@ -351,8 +351,45 @@ This exercise helped me understand how user interfaces are structured using hori
 
 <img width="391" height="146" alt="image" src="https://github.com/user-attachments/assets/763cb298-9e56-46c7-a43f-bb6c97efab20" />
 
+## PROJECT - Gmail Inbox Clone - Nested Flexbox (HTML + CSS)
 
+#### Algorithm
 
+1. Create an HTML file named `13e.html`.
+2. Link a CSS file named `13e.css` inside the `<head>` section.
+3. Create a main inbox container using a `<div>` element.
+4. Add a heading with the text:
+   - `ALL INBOXES`
+5. Create three email entries containing:
+   - Profile picture
+   - Sender name
+   - Email time
+   - Subject line
+   - Message preview
+6. Use a parent Flexbox layout to:
+   - Place the profile picture and email information side by side.
+7. Use a nested Flexbox layout inside each email entry to:
+   - Align the sender name on the left.
+   - Align the email time on the right.
+8. In `13e.css`, style the layout with:
+   - Font family and font size
+   - Box shadow
+   - Border radius
+   - Margins and padding
+   - Text colors
+   - Circular profile pictures
+9. Apply Flexbox properties such as:
+   - `display: flex`
+   - `align-items: center`
+   - `justify-content: space-between`
+   - `flex: 1`
+10. Use `object-fit: cover` and `border-radius` to create circular profile images.
+11. Save both files and open `13e.html` in a browser.
+12. End — Gmail-style email inbox created successfully using Nested Flexbox Layouts.
+
+#### Technologies Used
+- HTML for structure
+- CSS for styling
 
 
 
