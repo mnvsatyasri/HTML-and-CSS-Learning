@@ -1,0 +1,66 @@
+div{
+    font-family: Arial;
+}
+.container{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 400px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.25);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.r1{
+    font-size: 14px;
+    color: gray;
+    margin-bottom: 20px;
+}
+.flexbox1,
+.flexbox2,
+.flexbox3{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.image1,
+.image2,
+.image3{
+    margin-right: 10px;
+}
+.img1,
+.img2,
+.img3{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+}
+.info{
+    flex: 1;
+}
+.line1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0;
+}
+.name{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.time{
+    font-size: 15px;
+    color: gray;
+}
+.sub{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.msg{
+    color: gray;
+}
