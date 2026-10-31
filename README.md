@@ -397,7 +397,7 @@ This exercise helped me understand how user interfaces are structured using hori
 
 #### Algorithm
 
-1. Create an HTML file named `modal.html`.
+1. Create an HTML file named `14d.html`.
 2. Add a fixed sidebar using a `<div>` element.
    - Set the background color to green.
    - Position it on the right side of the screen using `position: fixed`.
@@ -431,14 +431,14 @@ This exercise helped me understand how user interfaces are structured using hori
     - `display: flex`
     - `justify-content: center`
     - `align-items: center`
-11. Save the file and open `modal.html` in a browser.
+11. Save the file and open `14d.html` in a browser.
 12. End — fixed sidebar and centered modal overlay displayed successfully.
 
 #### Technologies Used
 - HTML for structure
 - CSS for styling
 
-  <img width="600" alt="Screenshot 2026-10-31 215346" src="https://github.com/user-attachments/assets/c6bf8985-a38f-4bad-8e42-d26187bb9cb9" />
+<img width="600" alt="Screenshot 2026-10-31 215346" src="https://github.com/user-attachments/assets/c6bf8985-a38f-4bad-8e42-d26187bb9cb9" />
 
 
 
