@@ -393,6 +393,54 @@ This exercise helped me understand how user interfaces are structured using hori
 
 <img width="561" height="415" alt="image" src="https://github.com/user-attachments/assets/d1aca79e-1d9d-484d-91c9-b3fcbd36d76b" />
 
+## PROJECT – Modal Overlay & Fixed Position (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named `modal.html`.
+2. Add a fixed sidebar using a `<div>` element.
+   - Set the background color to green.
+   - Position it on the right side of the screen using `position: fixed`.
+3. Create a full-screen overlay using a `<div>` element.
+   - Cover the entire viewport.
+   - Apply a semi-transparent black background using `rgba()`.
+4. Use Flexbox on the overlay container to:
+   - Center content horizontally.
+   - Center content vertically.
+5. Create a modal box inside the overlay containing:
+   - A modal title
+   - A descriptive message
+   - A close button
+6. Style the modal box with:
+   - White background color
+   - Padding
+   - Border radius
+   - Fixed width
+7. Style the modal title with:
+   - Arial font
+   - Bold font weight
+   - Larger font size
+8. Add spacing between the modal title, message, and button using margins.
+9. Use positioning properties such as:
+   - `position: fixed`
+   - `top: 0`
+   - `bottom: 0`
+   - `left: 0`
+   - `right: 0`
+10. Use Flexbox properties such as:
+    - `display: flex`
+    - `justify-content: center`
+    - `align-items: center`
+11. Save the file and open `modal.html` in a browser.
+12. End — fixed sidebar and centered modal overlay displayed successfully.
+
+## Technologies Used
+- HTML for structure
+- CSS for styling
+
+  <img width="800" alt="Screenshot 2026-10-31 215346" src="https://github.com/user-attachments/assets/c6bf8985-a38f-4bad-8e42-d26187bb9cb9" />
+
+
 
 
 
