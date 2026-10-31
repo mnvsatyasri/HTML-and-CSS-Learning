@@ -434,7 +434,7 @@ This exercise helped me understand how user interfaces are structured using hori
 11. Save the file and open `modal.html` in a browser.
 12. End — fixed sidebar and centered modal overlay displayed successfully.
 
-## Technologies Used
+#### Technologies Used
 - HTML for structure
 - CSS for styling
 
