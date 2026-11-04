@@ -440,6 +440,43 @@ This exercise helped me understand how user interfaces are structured using hori
 
 <img width="600" alt="Screenshot 2026-10-31 215346" src="https://github.com/user-attachments/assets/c6bf8985-a38f-4bad-8e42-d26187bb9cb9" />
 
+## PROJECT – Product Card with Discount Badge & Overlay (HTML + CSS)
+
+#### Algorithm
+
+1. Create an HTML file named `15e.html`.
+2. Add a product image using the `<img>` element.
+3. Wrap the image inside a container `<div>` and set its position to `relative`.
+4. Create a discount badge displaying:
+   - `20% OFF`
+5. Use absolute positioning to place the discount badge:
+   - At the top-right corner of the product image.
+6. Create a semi-transparent overlay at the bottom of the image.
+7. Use Flexbox inside the overlay to:
+   - Center content horizontally.
+   - Center content vertically.
+8. Add an `Add to Cart` button inside the overlay.
+9. In CSS, style the elements with:
+   - Background colors
+   - Text colors
+   - Padding and margins
+   - Border styling
+   - Object-fit property
+   - Overlay transparency
+10. Apply positioning properties such as:
+    - `position: relative`
+    - `position: absolute`
+11. Apply Flexbox properties such as:
+    - `display: flex`
+    - `justify-content: center`
+    - `align-items: center`
+12. Save the file and open `15e.html` in a browser.
+13. End — product card with discount badge and add-to-cart overlay displayed successfully.
+
+#### Technologies Used
+- HTML for structure
+- CSS for styling
+
 
 
 
