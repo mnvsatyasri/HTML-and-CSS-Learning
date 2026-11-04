@@ -477,6 +477,8 @@ This exercise helped me understand how user interfaces are structured using hori
 - HTML for structure
 - CSS for styling
 
+<img width="385" height="387" alt="image" src="https://github.com/user-attachments/assets/8bb33366-fe31-4743-b5c1-c04e27a3e33c" />
+
 
 
 
